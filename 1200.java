@@ -1,1 +1,1 @@
-1200
+public class 1200 { public static void main(string[] args) {}}

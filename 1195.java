@@ -1,1 +1,1 @@
-1195
+public class 1195 { public static void main(string[] args) {}}
